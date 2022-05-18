@@ -5,6 +5,7 @@
 I'm someone who is passionate about **Machine Learning and Robotics** and their healthcare applications.
 
 <br>
+<br>
 
 I mostly write **Python** and use [**#Pytorch**](https://pytorch.org/) these days, I have 4+ years background experience on **Backend** with [**#Django**](https://www.djangoproject.com/) and has been studying **Machine Learning and Deep Learning** for 2 years now.
 
