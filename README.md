@@ -8,7 +8,6 @@ I'm someone who is passionate about **Machine Learning and Robotics** and their 
   <a href="https://www.linkedin.com/in/arsham-khodajoo-34340423b/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/Bitcoin-bc1qsuwkvmtftc2fs6wxaxwnf682pqdc4hfjpfnnls-yellow?style=for-the-badge" alt="Bitcoin Badge"/>
 </div>
 
 <br>
